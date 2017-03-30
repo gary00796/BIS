@@ -1,6 +1,8 @@
 var pos = 0, test, test_status, question, choice, choices, choiceA, choiceB, choiceC, correct=0, name = 0; 
 //setting variables
 		
+		// Small change made comment entered
+		
 //Place the questions array here
 var questions=[
 ['What is 99 divided by 3?',30,33,36, "B"],
